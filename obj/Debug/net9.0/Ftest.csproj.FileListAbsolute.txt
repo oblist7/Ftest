@@ -1,0 +1,14 @@
+/Users/syrymjoli/Documents/GitHub/Ftest/bin/Debug/net9.0/Ftest
+/Users/syrymjoli/Documents/GitHub/Ftest/bin/Debug/net9.0/Ftest.deps.json
+/Users/syrymjoli/Documents/GitHub/Ftest/bin/Debug/net9.0/Ftest.runtimeconfig.json
+/Users/syrymjoli/Documents/GitHub/Ftest/bin/Debug/net9.0/Ftest.dll
+/Users/syrymjoli/Documents/GitHub/Ftest/bin/Debug/net9.0/Ftest.pdb
+/Users/syrymjoli/Documents/GitHub/Ftest/obj/Debug/net9.0/Ftest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syrymjoli/Documents/GitHub/Ftest/obj/Debug/net9.0/Ftest.AssemblyInfoInputs.cache
+/Users/syrymjoli/Documents/GitHub/Ftest/obj/Debug/net9.0/Ftest.AssemblyInfo.cs
+/Users/syrymjoli/Documents/GitHub/Ftest/obj/Debug/net9.0/Ftest.csproj.CoreCompileInputs.cache
+/Users/syrymjoli/Documents/GitHub/Ftest/obj/Debug/net9.0/Ftest.dll
+/Users/syrymjoli/Documents/GitHub/Ftest/obj/Debug/net9.0/refint/Ftest.dll
+/Users/syrymjoli/Documents/GitHub/Ftest/obj/Debug/net9.0/Ftest.pdb
+/Users/syrymjoli/Documents/GitHub/Ftest/obj/Debug/net9.0/Ftest.genruntimeconfig.cache
+/Users/syrymjoli/Documents/GitHub/Ftest/obj/Debug/net9.0/ref/Ftest.dll
