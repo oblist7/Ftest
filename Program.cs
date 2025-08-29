@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-// жадный алгоритм
 class Program
 {
     static void Main()

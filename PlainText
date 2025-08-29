@@ -1,0 +1,10 @@
+--- Delivery Route Optimization Functional Test ---
+Test Case 1 (Sample): Expected = 4, Actual = 4
+Status: PASSED
+-------------------------------------------------------
+Test Case 2 (Empty List): Expected = 0, Actual = 0
+Status: PASSED
+-------------------------------------------------------
+TestCase 3 (Adjacent Routes): Expected = 4, Actual = 4
+Status: PASSED
+-------------------------------------------------------
